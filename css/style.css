@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;700&display=swap');
+
+body {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.wrapper {
+  /* background-color: pink; */
+  width: auto;
+  /* height: 100vh; */
+  /* margin: auto; */
+  margin: 20px 20px 20px 20px;
+}
+
+.btnBox {
+  width: 60%;
+  margin: auto;
+}
+
+ul, li {
+  text-decoration: none;
+  list-style:none;
+}
+#maru{
+  box-shadow: 2px 8px #373737;
+  border-radius: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 20vw;
+  top: 50%;
+  left: 50%;
+  background: #919191;
+  color: #FFF;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+  transition: 0.5s;
+}
+
+.topText {
+  width: 400px;
+  padding: 100px 0;
+  text-align: center;
+  margin: auto;
+  font-size: 24px;
+}
+
+form {
+  max-width: 600px;
+  margin: auto;
+}
+
+article {
+  text-align: center;
+  margin-top: 20px;
+}
